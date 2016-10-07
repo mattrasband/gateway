@@ -1,6 +1,6 @@
 # gateway: Wicked Async Services Platform API Gateway
 
-[![Build Status](https://travis-ci.org/WickedAsyncServicesPlatform/wasp-gateway.svg?branch=master)](https://travis-ci.org/WickedAsyncServicesPlatform/wasp-gateway)
+[![Build Status](https://travis-ci.org/wickedasp/gateway.svg?branch=master)](https://travis-ci.org/wickedasp/gateway)
 
 An API Gateway serves as a common entry point to a grouping of microservices composing a larger system. This project is a fully asynchronous gateway that proxies requests to services, fully baked by the Python ecosystem.
 
