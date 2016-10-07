@@ -1,4 +1,4 @@
-# wasp-gateway: Wicket Async Services Platform API Gateway
+# gateway: Wicked Async Services Platform API Gateway
 
 [![Build Status](https://travis-ci.org/WickedAsyncServicesPlatform/wasp-gateway.svg?branch=master)](https://travis-ci.org/WickedAsyncServicesPlatform/wasp-gateway)
 
